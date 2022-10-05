@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Sharrydeng
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Sharry
+- 👀 I’m interested in web3
+- 🌱 I’m currently learning solidity
+- 💞️ I’m looking to collaborate on bisic applying
+- 📫 you can email me at sharrydeng@gmail.com
 
 <!---
-Sharrydeng/Sharrydeng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sharry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
